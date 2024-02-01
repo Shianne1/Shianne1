@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shianne Lesure</h1>
 <h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
 
-- 🔭 I’m currently working on: [Pricing Pal](https://calicochloe.github.io/Thrifty-K9/)
+- 🔭 I’m currently working on: [Pricing Pal](https://github.com/CalicoChloe/Thrifty-K9)
   
 - 🌱 I’m currently learning **Web development, C#, Python**
 
