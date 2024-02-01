@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Shianne1"><img " alt="Shianne Lesure| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
+<a href="https://github.com/Shianne1"><img " alt="Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
