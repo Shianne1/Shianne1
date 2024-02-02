@@ -1,3 +1,4 @@
+![MasterHead](http://slesure1.altervista.org/Images/coding.jpg )
 <h1 align="center">Hi 👋, I'm Shianne Lesure</h1>
 <h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
 
