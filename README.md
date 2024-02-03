@@ -15,8 +15,7 @@
   <li>C#</li>
   <li>Python</li>
 </ul>
-_______________________________________________________________________________________________________
-
+_________________________________________________________________________________________
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 
