@@ -4,16 +4,20 @@
 <img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
 
 <h4 align="left"> Currently Working On:</h4>
-Pricing Pal = https://github.com/CalicoChloe/Thrifty-K9
-<br>
-Pop Up Character
+<ul>
+  <li>Pricing Pal = https://github.com/CalicoChloe/Thrifty-K9</li>
+  <li>Pop Up Character</li>
+</ul>
 
 <h4 align="left"> Currently Learning:</h4>
-Web development
-<br>
-C#
-<br>
-Python
+<ul>
+  <li>Web development</li>
+  <li>C#</li>
+  <li>Python</li>
+</ul>
+
+<hr size = "1">
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 
