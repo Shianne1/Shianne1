@@ -15,7 +15,8 @@
   <li>C#</li>
   <li>Python</li>
 </ul>
-_________________________________________________________________________
+
+<hr size = "0.5">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 
