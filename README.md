@@ -3,9 +3,17 @@
 <h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
 <img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
 
-- 🔭 I’m currently working on: **Pricing Pal, Pop Up Character**
-  
-- 🌱 I’m currently learning **Web development, C#, Python**
+<h4 align="left"> Currently Working On:</h4>
+Pricing Pal = https://github.com/CalicoChloe/Thrifty-K9
+<br>
+Pop Up Character
+
+<h4 align="left"> Currently Learning:</h4>
+Web development
+<br>
+C#
+<br>
+Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 
@@ -25,6 +33,7 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg" alt="jetpack compose" width="40" height="40"/> </a> 
   <a href="https://developer.android.com/studio/install" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 </p>
 
