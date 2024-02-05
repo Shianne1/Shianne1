@@ -6,7 +6,7 @@
 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Pricing Pal = https://github.com/CalicoChloe/Thrifty-K9</li>
+  <li>Pricing Pal</li>
   <li>Pop Up Character</li>
 </ul>
 
