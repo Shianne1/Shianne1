@@ -12,7 +12,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 
 <h3 align="left"> Currently Learning:</h3>
 <ul>
-  <li>Web development</li>
+  <li>Javascript</li>
   <li>C#</li>
   <li>Python</li>
 </ul>
