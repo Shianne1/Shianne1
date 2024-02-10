@@ -43,6 +43,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg" alt="jetpack compose" width="40" height="40"/> </a> 
   <a href="https://developer.android.com/studio/install" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a
 
 </p>
 
