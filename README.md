@@ -1,13 +1,13 @@
 ![MasterHead](http://slesure1.altervista.org/Images/coding.jpg )
-<h1 align="center">Hi 👋, I'm Shianne Lesure</h1>
+<h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
 <h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
 <img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
 
 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Pricing Pal</li>
-  <li>Pop Up Character</li>
+  <li>Pricing Pal 📱</li>
+  <li>Pop Up Character 📱</li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
@@ -19,7 +19,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 
 <h3>Facts About Me:</h3>
 <ul>
-  <li>I love going to conventions and drawing.</li>
+  <li>I love going to conventions and drawing. </li>
   <li>I enjoy working with Figma because I'm able to create fantastic designs for apps and websites.</li>
   <li> My Current goal of mine is to complete a personal project.</li> 
 </ul>
