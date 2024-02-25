@@ -1,4 +1,5 @@
-![Simple Technology LinkedIn Banner](https://github.com/Shianne1/Shianne1/assets/114550521/56765b81-9722-43e6-9236-9a3c032c2f0b)
+![LinkedIn Banner 2](https://github.com/Shianne1/Shianne1/assets/114550521/d34728da-f1ce-4533-b7b2-806a3230b957)
+
 
 <h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
 <h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
