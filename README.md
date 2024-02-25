@@ -1,4 +1,5 @@
-![MasterHead](http://slesure1.altervista.org/Images/coding.jpg )
+![Simple Technology LinkedIn Banner](https://github.com/Shianne1/Shianne1/assets/114550521/56765b81-9722-43e6-9236-9a3c032c2f0b)
+
 <h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
 <h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
 <img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
