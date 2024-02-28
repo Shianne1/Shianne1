@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
-<h3 align="center">I am a student at Georgia Gwinnett College, pursuing a Bachelor of Science degree in the concentration of software development.</h3>
+<h3 align="center">I am a driven software student fueled by curiosity and drive.</h3>
 <img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
 
 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
