@@ -8,8 +8,8 @@
 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Pricing Pal 📱</li>
-  <li>Pop Up Character 📱</li>
+  <li>Pricing Pal </li>
+  <li>Pop Up Character </li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
