@@ -1,4 +1,5 @@
-![LinkedIn Banner 2](https://github.com/Shianne1/Shianne1/assets/114550521/d34728da-f1ce-4533-b7b2-806a3230b957)
+![LinkedIn Banner 2](https://github.com/Shianne1/Shianne1/assets/114550521/e8827a79-0aa1-4f36-aaab-d9b2a9465c17)
+
 
 
 <h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
