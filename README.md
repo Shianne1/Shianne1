@@ -29,7 +29,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Shianne1"><img " alt="Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
-  <a href="https://www.linkedin.com/in/shianne-lesure-676374292/"><img align="left" alt=" Shianne | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+  <a href="https://www.linkedin.com/in/shiannelesure"><img align="left" alt=" Shianne | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
   <a href="mailto:shianne1thla@yahoo.com"><img align="left" alt="Shianne Lesure| Yahoo" width="40px" src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" /></a> 
 </p>
 
