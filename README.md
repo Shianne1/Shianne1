@@ -7,20 +7,18 @@
 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Pricing Pal </li>
-  <li>Pop Up Character </li>
+  <li>Pixel Arcade </li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
 <ul>
   <li>Javascript</li>
   <li>C#</li>
-  <li>Python</li>
 </ul>
 
 <h3>Facts About Me:</h3>
 <ul>
-  <li>I love going to conventions and drawing. </li>
+  <li>I love going to conventions and designing. </li>
   <li>I enjoy working with Figma because I'm able to create fantastic designs for apps and websites.</li>
   <li> My Current goal of mine is to complete a personal project.</li> 
 </ul>
