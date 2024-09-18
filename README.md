@@ -12,7 +12,6 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 
 <h3 align="left"> Currently Learning:</h3>
 <ul>
-  <li>Javascript</li>
   <li>C#</li>
 </ul>
 
@@ -20,7 +19,6 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 <ul>
   <li>I love going to conventions and designing. </li>
   <li>I enjoy working with Figma because I'm able to create fantastic designs for apps and websites.</li>
-  <li> My Current goal of mine is to complete a personal project.</li> 
 </ul>
 
 
