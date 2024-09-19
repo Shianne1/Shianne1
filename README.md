@@ -13,6 +13,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 <h3 align="left"> Currently Learning:</h3>
 <ul>
   <li>C#</li>
+  <li>Php</li>
 </ul>
 
 <h3>Facts About Me:</h3>
@@ -47,6 +48,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
   
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shianne1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shianne1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shianne1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shianne1" /></p>
 
