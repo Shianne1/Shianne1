@@ -18,7 +18,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 <h3>Facts About Me:</h3>
 <ul>
   <li>I love going to conventions and designing. </li>
-  <li>I enjoy working with Figma because I'm able to create fantastic designs for apps and websites.</li>
+  <li>I enjoy working with Figma because I can create fantastic designs for apps and websites.</li>
 </ul>
 
 
@@ -31,10 +31,10 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg" alt="jetpack compose" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com/studio/install" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/></a>
-
+  
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+  ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-%231572B6.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white) 
+  ![Kotlin](https://img.shields.io/badge/AndroidStudio-%4169e1.svg?style=for-the-badge&logo=androidstudio&logoColor=white) 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -44,7 +44,7 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shianne1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shianne1" /></p>
