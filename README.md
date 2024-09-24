@@ -7,7 +7,7 @@
 All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Pixel Arcade </li>
+  <li>Pixel Arcade - an interactive 2D game that will instruct participants about the basics of binary conversions and decimal conversions. </li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
