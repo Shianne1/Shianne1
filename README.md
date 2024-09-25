@@ -51,6 +51,8 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shianne1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shianne1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shianne1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shianne1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shianne1&theme=tokyonight&hide_border=false" alt="shianne1" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=shianne1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="shianne1" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
