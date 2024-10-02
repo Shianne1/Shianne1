@@ -4,10 +4,10 @@
 <h3 align="center">I am a driven software student fueled by curiosity and drive.</h3>
 <img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
 
-All of my projects are available at [https://github.com/Shianne1?tab=repositories](https://github.com/Shianne1?tab=repositories)
+All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> 
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Pixel Arcade - an interactive 2D game that will instruct participants about the basics of binary conversions and decimal conversions. https://github.com/TAP-GGC/Pixel8</li>
+  <li><b>Pixel Arcade</b> - an interactive 2D game that will instruct participants about the basics of binary conversions and decimal conversions. <a href = "https://github.com/TAP-GGC/Pixel8">Pixel Arcade</a></li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
@@ -18,16 +18,17 @@ All of my projects are available at [https://github.com/Shianne1?tab=repositorie
 
 <h3>Facts About Me:</h3>
 <ul>
-  <li>I love going to conventions and designing. </li>
+  <li>I love going to conventions and designing.</li>
   <li>I enjoy working with Figma because I can create fantastic designs for apps and websites.</li>
 </ul>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Shianne1"><img " alt="Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
+<a href="https://github.com/Shianne1"><img align="left" alt = "Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
   <a href="https://www.linkedin.com/in/shiannelesure"><img align="left" alt=" Shianne | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
-  <a href="mailto:shianne1thla@yahoo.com"><img align="left" alt="Shianne Lesure| Yahoo" width="40px" src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" /></a> 
+  <a href="https://ggc.joinhandshake.com/profiles/19232269"><img align="left" alt=" Shianne | Handshake" width="40px" src="https://logo.clearbit.com/https:/joinhandshake.com/" /></a>
+  <a href="mailto:shianne1thla@yahoo.com"><img  alt="Shianne Lesure| Yahoo" width="40px" src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
