@@ -7,7 +7,7 @@
 All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> 
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li><b>Pixel Arcade</b> - an interactive 2D game that will instruct participants about the basics of binary conversions and decimal conversions. <a href = "https://github.com/TAP-GGC/Pixel8">Pixel Arcade</a></li>
+  <li><b>Pixel Arcade</b> - a 2D interactive game built with Unity with the purpose of teaching binary to students ranging from middle school to college. <a href = "https://github.com/TAP-GGC/Pixel8">Pixel Arcade</a></li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
