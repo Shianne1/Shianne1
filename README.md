@@ -8,7 +8,6 @@
   <h3 align="center">All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> </h3>
 </p>
 
-All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> 
 ## Know About Me!
 <h3 align="left"> Currently Working On:</h3>
 <ul>
