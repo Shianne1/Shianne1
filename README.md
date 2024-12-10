@@ -1,10 +1,15 @@
 ![LinkedIn Banner 1 (1)](https://github.com/Shianne1/Shianne1/assets/114550521/93050580-ab4a-4896-ab0d-023383396ff7)
 
 <h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
-<h3 align="center">I am a driven software student fueled by curiosity and drive.</h3>
-<img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg">
+
+<p align="center">
+  <img alt="Template Logo" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg" width="" height="300" />
+  <h3 align="center">I am a driven software student fueled by curiosity and drive.</h3>
+  <h3 align="center">All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> </h3>
+</p>
 
 All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> 
+## Know About Me!
 <h3 align="left"> Currently Working On:</h3>
 <ul>
   <li><b>Pixel Arcade</b> - a 2D interactive game built with Unity with the purpose of teaching binary to students ranging from middle school to college. <a href = "https://github.com/TAP-GGC/Pixel8">Pixel Arcade</a></li>
@@ -22,8 +27,7 @@ All of my projects are available at <a href = "https://github.com/Shianne1?tab=r
   <li>I enjoy working with Figma because I can create fantastic designs for apps and websites.</li>
 </ul>
 
-
-<h3 align="left">Connect with me:</h3>
+## Let's Connect
 <p align="left">
 <a href="https://github.com/Shianne1"><img align="left" alt = "Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
   <a href="https://www.linkedin.com/in/shiannelesure"><img align="left" alt=" Shianne | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
@@ -31,7 +35,7 @@ All of my projects are available at <a href = "https://github.com/Shianne1?tab=r
   <a href="mailto:shianne1thla@yahoo.com"><img  alt="Shianne Lesure| Yahoo" width="40px" src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p> 
   
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -48,7 +52,7 @@ All of my projects are available at <a href = "https://github.com/Shianne1?tab=r
   
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+## GitHub Stats
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shianne1&theme=tokyonight&hide_border=false" alt="shianne1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shianne1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shianne1" /></p>
 <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=shianne1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="shianne1" /></p>
