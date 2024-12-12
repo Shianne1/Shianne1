@@ -28,10 +28,11 @@
 
 ## Let's Connect
 <p align="left">
-<a href="https://github.com/Shianne1"><img align="left" alt = "Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
+  <a href="https://github.com/Shianne1"><img align="left" alt = "Shianne Lesure| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
   <a href="https://www.linkedin.com/in/shiannelesure"><img align="left" alt=" Shianne | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
   <a href="https://ggc.joinhandshake.com/profiles/19232269"><img align="left" alt=" Shianne | Handshake" width="40px" src="https://logo.clearbit.com/https:/joinhandshake.com/" /></a>
   <a href="mailto:shianne1thla@yahoo.com"><img  alt="Shianne Lesure| Yahoo" width="40px" src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" /></a> 
+  <a href="https://discord.com/users/shianne3221"><img align="left" alt = "Shianne Lesure| Discord" width="40px" src="https://tiermaker.com/images/templates/logo-redesigns-307182/3071821622754635.jpg" /></a>
 </p>
 
 ## Languages and Tools:
