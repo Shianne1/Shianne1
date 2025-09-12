@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Template Logo" src="https://static.vecteezy.com/system/resources/previews/002/274/665/non_2x/black-woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-concept-illustration-vector.jpg" width="" height="300" />
-  <h3 align="center">I am a driven software student fueled by curiosity and drive.</h3>
+  <h3 align="center">I am a recent graduate driven by curiosity and drive.</h3>
   <h3 align="center">All of my projects are available at <a href = "https://github.com/Shianne1?tab=repositories">My Projects</a> </h3>
 </p>
 
