@@ -1,5 +1,4 @@
-![LinkedIn Banner 1 (1)](https://github.com/Shianne1/Shianne1/assets/114550521/93050580-ab4a-4896-ab0d-023383396ff7)
-
+![LinkedIn Banner 1 (1)](https://github.com/Shianne1/Shianne1/blob/main/11.png)
 <h1 align="center">Hi 👋🏽, I'm Shianne Lesure</h1>
 
 <p align="center">
