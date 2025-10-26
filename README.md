@@ -10,7 +10,7 @@
 ## Know About Me!
 <h3 align="left"> Currently Working On:</h3>
 <ul>
-  <li>Private Project</li>
+  <li>None at the moment</li>
 </ul>
 
 <h3 align="left"> Currently Learning:</h3>
