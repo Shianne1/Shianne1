@@ -15,8 +15,7 @@
 
 <h3 align="left"> Currently Learning:</h3>
 <ul>
-  <li>Python</li>
-  <li>C#</li>
+
 </ul>
 
 <h3>Facts About Me:</h3>
